@@ -1,4 +1,4 @@
-![Codewars](https://github.r2v.ch/codewars?user=andreiazotov&name=true&top_languages=true&stroke=%23b362ff&theme=gradient)
+![Codewars](https://github.r2v.ch/codewars?user=andreiazotov&name=true&top_languages=true&theme=gradient_dark_by_level)
 
 <!--
 **andreiazotov/andreiazotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
