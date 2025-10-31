@@ -1,5 +1,3 @@
-![Codewars](https://github.r2v.ch/codewars?user=andreiazotov&name=true&top_languages=true&theme=gradient_dark_by_level)
-
 ![Badge](https://www.codewars.com/users/andreiazotov/badges/large)
 
 <!--
